@@ -16,3 +16,13 @@ Instructions:
     * Build word clouds for all four corpora.
 
 1. Work through the notebook, performing the steps asked of you. Use and extend the code from the chapters of your textbook.
+
+Assignment Materials: 
+  
+* Group Comparison Repository
+* (Optional) M1 Assignment Data.zip
+
+Deliverables:
+
+* When you have finished your code, print your notebook as a PDF and upload this document to Blackboard. 
+* Commit your code and push the changes to GitHub so your instructor has access to the ipynb notebook file and any other code you create. 
